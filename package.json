@@ -1,0 +1,8 @@
+{
+  "name": "cloudcannon-base",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Robbie-Cook/cloudcannon-base.git",
+  "author": "Robbie Cook <robbieck7@gmail.com>",
+  "license": "UNLICENSED"
+}
