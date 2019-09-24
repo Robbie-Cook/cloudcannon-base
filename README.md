@@ -1,3 +1,3 @@
-# cloudcannon-base
+# Cloudcannon Base
 
-Template for creating cloudcannon websites.
+Personal template for making cloudcannon websites
