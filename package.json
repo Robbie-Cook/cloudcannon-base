@@ -6,7 +6,7 @@
   "author": "Robbie Cook <robbieck7@gmail.com>",
   "license": "UNLICENSED",
   "dependencies": {
-    "@cloudcannon/suite": "^1.1.8",
+    "@cloudcannon/suite": "^2.0.0-rc6",
     "gulp": "^4.0.2"
   }
 }
